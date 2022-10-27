@@ -6,7 +6,7 @@ namespace konzolna_app
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Pozdrav iz aplikacije od Roka 22113213124122!");
         }
     }
 }
